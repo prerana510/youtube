@@ -1,5 +1,5 @@
 <h2> Youtube </h2>
-<a href="https://twitter.com/prerana0510">
+<a href="https://youtube-clone-prerana.netlify.app/">
   <img align="left" alt="YTClone" src="https://img.icons8.com/plasticine/344/domain.png" width=55/>
 </a>
 
